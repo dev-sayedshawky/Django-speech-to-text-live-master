@@ -25,7 +25,7 @@ SECRET_KEY = '88$vkqliu5svhz*jhw&o@&i25f(b@6jm=5@%$!4#4fri(%!$qj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-speech-to-text-chat.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
